@@ -52,6 +52,6 @@ Book in more than 900,000 hotels and apartments at the lowest price in more than
 
 ### Interesting stats
 
-![Mahmoud's stats](https://github-readme-stats.vercel.app/api?username=moshabarawy&show_icons=true)
+![Mahmoud's stats](https://github-readme-stats.vercel.app/api?username=moshabrawy&show_icons=true)
 
 Thanks for stopping by! 😁
