@@ -8,6 +8,12 @@
 <!-- - More than 2k student around the world -->
 <hr>
 
+<!--
+<div align="center">
+	<img src="https://s10.gifyu.com/images/ezgif.com-gif-maker1ba4f6e6b425ad6c.gif">
+</div>
+-->
+
 <h2> Youtube </h2>
 
 - Account : https://www.youtube.com/@moshabrawy
@@ -43,3 +49,9 @@ Book in more than 900,000 hotels and apartments at the lowest price in more than
 
 <hr>
 -->
+
+### Interesting stats
+
+![Mahmoud's stats](https://github-readme-stats.vercel.app/api?username=moshabarawy&show_icons=true)
+
+Thanks for stopping by! 😁
