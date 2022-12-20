@@ -27,7 +27,10 @@
 <!-- - business email : abdullah@mansouracademy.net -->
 - Email Address : mo.shabrawydev@gmail.com
 
-<p><a href="http://Wa.me/201014018375" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/Mo7amedELShabrawy" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/moshabrawy" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/@moshabrawy" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a><p>
+<p><a href="http://Wa.me/201014018375" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+<a href="https://www.facebook.com/Mo7amedELShabrawy" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/moshabrawy" target="_blank"><img alt="Linked IN" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.youtube.com/@moshabrawy" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a><p>
 
 <!--  <a href="https://www.instagram.com/abdullahmanss" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-cd486b.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
 <hr>
